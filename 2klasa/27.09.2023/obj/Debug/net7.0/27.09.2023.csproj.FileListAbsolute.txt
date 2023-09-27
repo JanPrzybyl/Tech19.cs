@@ -1,0 +1,4 @@
+/home/jan/Repos/Tech19.cs/2klasa/27.09.2023/obj/Debug/net7.0/27.09.2023.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Repos/Tech19.cs/2klasa/27.09.2023/obj/Debug/net7.0/27.09.2023.AssemblyInfoInputs.cache
+/home/jan/Repos/Tech19.cs/2klasa/27.09.2023/obj/Debug/net7.0/27.09.2023.AssemblyInfo.cs
+/home/jan/Repos/Tech19.cs/2klasa/27.09.2023/obj/Debug/net7.0/27.09.2023.csproj.CoreCompileInputs.cache
